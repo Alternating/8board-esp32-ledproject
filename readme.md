@@ -2,6 +2,11 @@
 
 ## 🎯 Project Overview
 
+## Videos 
+- https://youtu.be/qU0nfLclvcI - example of working with 8 boards
+- https://youtube.com/shorts/jiU6isPC810?feature=share - battery holder and hanger combo
+
+
 WiFi-controlled modular LED matrix sign system supporting:
 - **Multiple display boards** (up to 8 boards)
 - **Battery powered** - Portable operation with LiFePO4 batteries
@@ -955,3 +960,4 @@ Contributions welcome! Please test thoroughly before submitting pull requests.
 ---
 
 Version 3.0 - Battery power support with 3D printable mount | 20×20 LED matrices | Portable operation
+
