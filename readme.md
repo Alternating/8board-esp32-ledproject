@@ -942,37 +942,6 @@ LED_Sign_Project/
 
 ---
 
-## 🚀 Future Enhancements
-
-**Display & Features:**
-- [ ] Save/load presets to EEPROM
-- [ ] Schedule messages by time of day
-- [ ] Add more fonts (5×7, 8×8, variable width)
-- [ ] Advanced animations library
-- [ ] QR code display support
-
-**Connectivity:**
-- [ ] MQTT integration for IoT control
-- [ ] Home Assistant integration
-- [ ] Google Home / Alexa voice control
-- [ ] Mobile app (native iOS/Android)
-- [ ] Bluetooth LE control option
-
-**Power & Hardware:**
-- [ ] Solar charging for batteries
-- [ ] Power consumption optimization
-- [ ] Sleep mode for extended battery life
-- [ ] Temperature monitoring
-- [ ] Battery level indicator in web UI
-
-**Advanced:**
-- [ ] Multi-sign synchronization
-- [ ] Cloud message scheduling
-- [ ] Live data feeds (weather, stocks, news)
-- [ ] Custom symbol designer in web UI
-
----
-
 ## 📄 License
 
 Open source - MIT License
@@ -984,42 +953,5 @@ Open source - MIT License
 Contributions welcome! Please test thoroughly before submitting pull requests.
 
 ---
-
-## ⚠️ Safety Warnings
-
-**Power & Electrical:**
-1. **Power supply sizing** - Underpowered supplies cause brownouts
-2. **Heat dissipation** - High brightness generates heat, add cooling if needed
-3. **Current limiting** - Use proper gauge wire for current load (16-18 AWG minimum)
-4. **Polarity** - Double-check +5V and GND connections before powering on
-5. **Common ground** - ALL grounds must be connected together (critical!)
-
-**Battery Safety (if using battery power):**
-1. **BMS required** - Only use batteries with built-in BMS protection
-2. **Correct voltage** - Set XL4015 to exactly 5.0V before connecting LEDs
-3. **Don't over-discharge** - Stop using when battery reaches 5.8V
-4. **Proper charging** - Use USB charging built into battery, don't bypass BMS
-5. **No short circuits** - Keep battery terminals protected
-6. **Temperature** - Don't charge or use in extreme temperatures (<0°C or >40°C)
-7. **Storage** - Store at 60% charge for long-term, fully charged for short-term
-
-**Visual & Operational:**
-1. **Eye safety** - Don't stare directly at LEDs at full brightness
-2. **Ventilation** - Ensure adequate airflow, especially at high brightness
-3. **Mounting** - Secure all components properly, especially batteries
-
----
-
-## 📞 Support
-
-For issues or questions:
-1. Check this README thoroughly
-2. Review wiring against pinout diagram
-3. Check serial monitor for error messages
-4. Verify power supply voltage and current
-
----
-
-**Built with ❤️ for makers and LED enthusiasts**
 
 Version 3.0 - Battery power support with 3D printable mount | 20×20 LED matrices | Portable operation
