@@ -21,7 +21,7 @@ WiFi-controlled modular LED matrix sign system supporting:
 ---
 Example:
 
-[logo]: https://github.com/Alternating/8board-esp32-ledproject/blob/main/pics/example.png "WorkingExample"
+![example](https://github.com/Alternating/8board-esp32-ledproject/blob/main/pics/example.png "WorkingExample")
 
 ---
 ## 🛒 Parts List & Shopping Guide
@@ -964,5 +964,6 @@ Contributions welcome! Please test thoroughly before submitting pull requests.
 ---
 
 Version 3.0 - Battery power support with 3D printable mount | 20×20 LED matrices | Portable operation
+
 
 
